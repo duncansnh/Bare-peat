@@ -1,2 +1,2 @@
-# Bare-peat-R
-R code for bare peat mapping project
+# Bare-peat
+Code for bare peat mapping project
